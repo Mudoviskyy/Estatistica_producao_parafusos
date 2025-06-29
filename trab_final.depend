@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1750518109 source:d:\ciência da computação\presencial\trabalhos\laboratorio de programação 1\trabalho final - estatistica\trab_final\main.c
+	<stdio.h>
+	"entrada_dados.h"
+	"estatistica.h"
+	"tabela_z.h"
+	<locale.h>
+
+1750516074 d:\ciência da computação\presencial\trabalhos\laboratorio de programação 1\trabalho final - estatistica\trab_final\entrada_dados.h
+
+1750462357 d:\ciência da computação\presencial\trabalhos\laboratorio de programação 1\trabalho final - estatistica\trab_final\estatistica.h
+
+1750462356 d:\ciência da computação\presencial\trabalhos\laboratorio de programação 1\trabalho final - estatistica\trab_final\tabela_z.h
+
+1750517843 source:d:\ciência da computação\presencial\trabalhos\laboratorio de programação 1\trabalho final - estatistica\trab_final\entrada_dados.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"entrada_dados.h"
+
+1750462357 source:d:\ciência da computação\presencial\trabalhos\laboratorio de programação 1\trabalho final - estatistica\trab_final\estatistica.c
+	<stdio.h>
+	<math.h>
+	"estatistica.h"
+
+1750462644 source:d:\ciência da computação\presencial\trabalhos\laboratorio de programação 1\trabalho final - estatistica\trab_final\tabela_z.c
+	<stdio.h>
+	<math.h>
+	"tabela_z.h"
+
+1750517843 source:d:\ciência da computação\trabalhos\laboratorio de programação 1\trabalho final - estatistica\trab_final\entrada_dados.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"entrada_dados.h"
+
+1750516074 d:\ciência da computação\trabalhos\laboratorio de programação 1\trabalho final - estatistica\trab_final\entrada_dados.h
+
+1751213686 source:d:\ciência da computação\trabalhos\laboratorio de programação 1\trabalho final - estatistica\trab_final\estatistica.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"estatistica.h"
+
+1751213755 d:\ciência da computação\trabalhos\laboratorio de programação 1\trabalho final - estatistica\trab_final\estatistica.h
+
+1750462644 source:d:\ciência da computação\trabalhos\laboratorio de programação 1\trabalho final - estatistica\trab_final\tabela_z.c
+	<stdio.h>
+	<math.h>
+	"tabela_z.h"
+
+1750462356 d:\ciência da computação\trabalhos\laboratorio de programação 1\trabalho final - estatistica\trab_final\tabela_z.h
+
